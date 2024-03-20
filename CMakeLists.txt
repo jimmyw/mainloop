@@ -1,0 +1,9 @@
+idf_component_register(
+    SRCS
+        mainloop.c
+        mainloop.h
+    INCLUDE_DIRS
+        .
+    REQUIRES
+        esp_event
+)

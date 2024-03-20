@@ -1,0 +1,14 @@
+description: Framework to handle main loop in ESP-IDF applications
+
+version: 0.0.1
+
+url: https://github.com/tibber/mainloop
+issues: https://github.com/tibber/mainloop/issues
+documentation: https://github.com/tibber/mainloop/blob/main/README.md
+repository: git@github.com:jimmyw/mainloop.git
+
+maintainers:
+  - "Jimmy Wennlund <jimmy@wennlund.nu>"
+
+dependencies:
+  idf: ">=5.0.0"
